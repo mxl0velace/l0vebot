@@ -1,0 +1,1 @@
+worker: herokubot.js
